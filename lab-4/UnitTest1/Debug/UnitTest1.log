@@ -1,0 +1,8 @@
+﻿  UnitTest1.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(61,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(86,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\Debug\UnitTest1.lib and object C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\Debug\UnitTest1.dll

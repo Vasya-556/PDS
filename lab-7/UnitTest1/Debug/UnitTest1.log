@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-7\UnitTest1\UnitTest1.cpp(20,3): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-7\UnitTest1\UnitTest1.cpp(43,9): warning C4002: too many arguments for function-like macro invocation 'TEST_METHOD'
+  UnitTest1.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-7\Debug\UnitTest1.dll

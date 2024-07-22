@@ -1,0 +1,7 @@
+﻿  lab-4.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(61,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(65,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(68,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(86,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\lab-4\lab-4.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+  lab-4.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-4\Debug\lab-4.exe

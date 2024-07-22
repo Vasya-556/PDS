@@ -1,0 +1,4 @@
+﻿  lab-3.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-3\lab-3\lab-3.cpp(41,9): warning C4101: 'k': unreferenced local variable
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-3\lab-3\lab-3.cpp(41,6): warning C4101: 'j': unreferenced local variable
+  lab-3.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-3\Debug\lab-3.exe

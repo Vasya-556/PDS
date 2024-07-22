@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-14\lab-14\lab-14.cpp(66,22): warning C4551: function call missing argument list
+C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-14\lab-14\lab-14.cpp(69,22): warning C4551: function call missing argument list
+     Creating library C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-14\Debug\UnitTest1.lib and object C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-14\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\vkobr\OneDrive\Робочий стіл\ПДС\solution\lab-14\Debug\UnitTest1.dll
